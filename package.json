@@ -1,6 +1,6 @@
 {
   "Homepage": "http://Cloud9XHershey.github.io/react-app",
-  "name": "firebase-tut",
+  "name": "crud-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
